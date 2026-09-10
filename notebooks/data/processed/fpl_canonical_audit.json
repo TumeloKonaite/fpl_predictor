@@ -1,0 +1,18 @@
+{
+  "rows_raw": 96169,
+  "rows_canonical": 96169,
+  "key_quality": "preferred",
+  "row_key": [
+    "season",
+    "fixture_id",
+    "player_id"
+  ],
+  "duplicate_rows": 0,
+  "missing_required": {
+    "fixture_id": 0,
+    "kickoff_time": 0,
+    "player_id": 0,
+    "season": 0,
+    "total_points": 0
+  }
+}
